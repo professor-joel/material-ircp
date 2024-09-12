@@ -1,0 +1,1 @@
+Para utilização dos comandos de rede, abra o prompt de comandos (CMD) em modo normal ou administrador e realize os comandos que constam na atividade.
